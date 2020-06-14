@@ -16,7 +16,7 @@
     }
 	public function Fun2()
     {
-        echo "En controlador Home y metodo Fun2";
+        echo "En controlador Home y metodos Fun2";
     }
   }
 
