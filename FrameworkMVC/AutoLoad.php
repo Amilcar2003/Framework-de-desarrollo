@@ -2,7 +2,7 @@
 
     function AutoLoad($carga)
     {
-
+	    //echo "Cargar Clae:".$carga. "</br>";
         if(is_file('Controlador/'.$carga.'.Controller.php'))
         {
           require_once('Controlador/'.$carga.'.Controller.php');
