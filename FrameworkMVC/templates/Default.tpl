@@ -1,7 +1,7 @@
 {include file="Cabeceras/header.tpl"}
-    <div align= "center">
-	  <br>
-      <h1>Hello, world!</h1>
+    <div align="center" id="ENCABEZADO">
+        <h1>REGISTRO</h1>
+      </div>
 {include file="Cabeceras/footer.tpl"}
 
 

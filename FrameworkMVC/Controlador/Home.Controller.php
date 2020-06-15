@@ -17,8 +17,10 @@
     }
 	public function Fun2()
     {
-        echo "En controlador Home y metodos Fun2";
+     $model=new Usuarios ();
+
+	 $consulta=$model->BuscarUsuario("user","pass");
+	 var_dump($consulta);
     }
   }
-
  ?>
