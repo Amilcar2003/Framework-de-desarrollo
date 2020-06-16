@@ -3,9 +3,8 @@
     "",
     "\\FrameworkMVC",
     "\\FrameworkMVC\\Controlador",
-    "\\FrameworkMVC\\Framework\\Bootstrap",
-    "\\FrameworkMVC\\Modelo"
+    "\\FrameworkMVC\\imagenes"
   ],
-  "SelectedNode": "\\FrameworkMVC\\AutoLoad.php",
+  "SelectedNode": "\\FrameworkMVC\\imagenes",
   "PreviewInSolutionExplorer": false
 }
